@@ -45,6 +45,9 @@ $lang = array_merge($lang, array(
 
 	'LATEST'								=> 'La dernière',
 
+	'NEW_VERSION'							=> 'Nouvelle version',
+	'NEW_VERSION_EXPLAIN'					=> 'Une nouvelle version de cette extension est disponible.',
+
 	'REDIRECT_ALWAYS'						=> 'Redirection permanente',
 	'REDIRECT_ALWAYS_EXPLAIN'				=> 'Permet de toujours rediriger les utilisateurs vers le sujet spécifié.',
 	'REDIRECT_ANNOUNCE'						=> 'Redirection vers une annonce spécifique',
